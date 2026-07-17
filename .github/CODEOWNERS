@@ -1,0 +1,23 @@
+# AEL Brand System — Code Owners
+# Each line is a file pattern followed by one or more owners.
+
+# Default owner for all files
+* @aymanelmasryael
+
+# Core brand identity — only owner can approve
+/docs/01_AEL_Brand_Foundation.md @aymanelmasryael
+/docs/02_AEL_Visual_Identity.md @aymanelmasryael
+/docs/06_AEL_Brand_Rules.md @aymanelmasryael
+/docs/12_AEL_Decision_Log.md @aymanelmasryael
+/tokens/colors.json @aymanelmasryael
+
+# Design tokens — owner must approve any value changes
+/tokens/ @aymanelmasryael
+
+# Governance files — owner only
+/CONTRIBUTING.md @aymanelmasryael
+/VERSIONING.md @aymanelmasryael
+/LICENSE @aymanelmasryael
+
+# Products — individual product maintainers can be added here
+/products/ @aymanelmasryael

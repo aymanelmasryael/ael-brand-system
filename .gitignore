@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+Thumbs.db
+*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Project
+*.log
+.env

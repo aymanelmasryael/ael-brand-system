@@ -1,0 +1,161 @@
+{
+  "$schema": "https://schemas.ael.digital/tokens/colors.json",
+  "meta": {
+    "name": "AEL Color Tokens",
+    "version": "1.0.0",
+    "source": "www.aymanelmasry.com (4802-line source)",
+    "extracted": "2026-07-18",
+    "description": "Complete color design tokens extracted from the AEL portfolio source code"
+  },
+  "brand": {
+    "ael-blue": {
+      "hex": "#0074FF",
+      "rgb": "rgb(0, 116, 255)",
+      "hsl": "hsl(213, 100%, 50%)",
+      "usage": "Primary brand color — CTAs, links, active states",
+      "meaning": "Trust & Intelligence"
+    },
+    "ael-gold": {
+      "hex": "#FFD700",
+      "rgb": "rgb(255, 215, 0)",
+      "hsl": "hsl(51, 100%, 50%)",
+      "usage": "Accent — highlights, badges, premium indicators",
+      "meaning": "Premium & Vision"
+    },
+    "ael-teal": {
+      "hex": "#00FFCC",
+      "rgb": "rgb(0, 255, 204)",
+      "hsl": "hsl(168, 100%, 50%)",
+      "usage": "Secondary accent — success states, innovation indicators",
+      "meaning": "Innovation & Flow"
+    },
+    "ael-purple": {
+      "hex": "#6C47FF",
+      "rgb": "rgb(108, 71, 255)",
+      "hsl": "hsl(252, 100%, 64%)",
+      "usage": "Depth — creative sections, decorative elements",
+      "meaning": "Depth & Creativity"
+    },
+    "ael-pink": {
+      "hex": "#FF4D8D",
+      "rgb": "rgb(255, 77, 141)",
+      "hsl": "hsl(339, 100%, 65%)",
+      "usage": "Energy — distinction elements, highlights",
+      "meaning": "Energy & Distinction"
+    }
+  },
+  "backgrounds": {
+    "page": {
+      "hex": "#0B1220",
+      "rgb": "rgb(11, 18, 32)",
+      "usage": "Page background (deep navy)"
+    },
+    "glass": {
+      "rgba": "rgba(255, 255, 255, 0.03)",
+      "usage": "Glassmorphism card backgrounds"
+    },
+    "glass-hover": {
+      "rgba": "rgba(255, 255, 255, 0.06)",
+      "usage": "Glass card hover state"
+    },
+    "tag": {
+      "rgba": "rgba(0, 116, 255, 0.1)",
+      "usage": "Tag/badge background"
+    },
+    "terminal": {
+      "rgba": "rgba(0, 0, 0, 0.4)",
+      "usage": "Terminal component background"
+    },
+    "nav": {
+      "rgba": "rgba(11, 18, 32, 0.85)",
+      "usage": "Navigation bar background"
+    }
+  },
+  "text": {
+    "primary": {
+      "hex": "#E6EEF8",
+      "rgb": "rgb(230, 238, 248)",
+      "usage": "Primary text (ice white)"
+    },
+    "secondary": {
+      "hex": "#8899AA",
+      "rgb": "rgb(136, 153, 170)",
+      "usage": "Secondary text, meta, nav links (default)"
+    },
+    "tag": {
+      "hex": "#4DA6FF",
+      "rgb": "rgb(77, 166, 255)",
+      "usage": "Tag text on tag backgrounds"
+    },
+    "placeholder": {
+      "rgba": "rgba(255, 255, 255, 0.3)",
+      "usage": "Form input placeholder text"
+    }
+  },
+  "borders": {
+    "default": {
+      "rgba": "rgba(255, 255, 255, 0.08)",
+      "usage": "Default divider borders"
+    },
+    "glass": {
+      "rgba": "rgba(255, 255, 255, 0.06)",
+      "usage": "Glassmorphism borders"
+    },
+    "glass-hover": {
+      "rgba": "rgba(255, 255, 255, 0.1)",
+      "usage": "Glass card hover border"
+    },
+    "terminal": {
+      "rgba": "rgba(0, 116, 255, 0.2)",
+      "usage": "Terminal component border"
+    },
+    "form": {
+      "rgba": "rgba(255, 255, 255, 0.1)",
+      "usage": "Form input border"
+    },
+    "form-focus": {
+      "hex": "#0074FF",
+      "usage": "Form input focus border"
+    }
+  },
+  "states": {
+    "success": {
+      "hex": "#00CC88",
+      "rgb": "rgb(0, 204, 136)",
+      "usage": "Success states, form valid"
+    },
+    "error": {
+      "hex": "#FF4466",
+      "rgb": "rgb(255, 68, 102)",
+      "usage": "Error states, form invalid"
+    },
+    "warning": {
+      "hex": "#FFAA00",
+      "rgb": "rgb(255, 170, 0)",
+      "usage": "Warning states"
+    }
+  },
+  "gradients": {
+    "hero-accent": "linear-gradient(135deg, #0074FF, #00FFCC)",
+    "gold-accent": "linear-gradient(135deg, #FFD700, #FFAA00)",
+    "purple-accent": "linear-gradient(135deg, #6C47FF, #00FFCC)",
+    "pink-accent": "linear-gradient(135deg, #FF4D8D, #FF8C00)",
+    "blue-accent": "linear-gradient(135deg, #0074FF, #6C47FF)",
+    "btn-primary": "linear-gradient(135deg, #0074FF, #6C47FF)",
+    "badge": "linear-gradient(135deg, #0074FF, #6C47FF)",
+    "glass-overlay": "linear-gradient(180deg, rgba(255,255,255,0.03) 0%, rgba(255,255,255,0.01) 100%)"
+  },
+  "shadows": {
+    "glow-blue": "0 0 20px rgba(0, 116, 255, 0.3)",
+    "glow-teal": "0 0 20px rgba(0, 255, 204, 0.3)",
+    "glow-gold": "0 0 20px rgba(255, 215, 0, 0.3)",
+    "btn-primary": "0 4px 15px rgba(0, 116, 255, 0.3)",
+    "btn-primary-hover": "0 6px 20px rgba(0, 116, 255, 0.4)"
+  },
+  "tag-colors": {
+    "blue": { "background": "rgba(0, 116, 255, 0.1)", "text": "#4DA6FF" },
+    "gold": { "background": "rgba(255, 215, 0, 0.1)", "text": "#FFD700" },
+    "teal": { "background": "rgba(0, 255, 204, 0.1)", "text": "#00FFCC" },
+    "purple": { "background": "rgba(108, 71, 255, 0.1)", "text": "#6C47FF" }
+  }
+}

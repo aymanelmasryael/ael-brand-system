@@ -1,0 +1,72 @@
+{
+  "$schema": "https://schemas.ael.digital/tokens/spacing.json",
+  "meta": {
+    "name": "AEL Spacing & Layout Tokens",
+    "version": "1.0.0",
+    "source": "www.aymanelmasry.com",
+    "extracted": "2026-07-18"
+  },
+  "spacing": {
+    "1": { "rem": "0.25rem", "px": 4, "usage": "Micro spacing, icon gaps" },
+    "2": { "rem": "0.5rem", "px": 8, "usage": "Tight spacing, tag padding" },
+    "3": { "rem": "0.75rem", "px": 12, "usage": "Button padding, small gaps" },
+    "4": { "rem": "1rem", "px": 16, "usage": "Card padding, section gaps" },
+    "5": { "rem": "1.25rem", "px": 20, "usage": "Form elements padding" },
+    "6": { "rem": "1.5rem", "px": 24, "usage": "Medium spacing" },
+    "8": { "rem": "2rem", "px": 32, "usage": "Large spacing, grid gaps" },
+    "10": { "rem": "2.5rem", "px": 40, "usage": "Section padding" },
+    "12": { "rem": "3rem", "px": 48, "usage": "Hero padding top" },
+    "16": { "rem": "4rem", "px": 64, "usage": "Section margins" },
+    "20": { "rem": "5rem", "px": 80, "usage": "Major sections separation" },
+    "24": { "rem": "6rem", "px": 96, "usage": "Page section gaps" }
+  },
+  "border-radius": {
+    "xs": { "px": 4, "usage": "Tags, badges" },
+    "sm": { "px": 6, "usage": "Small cards, inputs" },
+    "md": { "px": 8, "usage": "Cards, buttons, forms" },
+    "lg": { "px": 12, "usage": "Large cards, modals" },
+    "xl": { "px": 16, "usage": "Hero section, containers" },
+    "2xl": { "px": 20, "usage": "Featured cards" },
+    "3xl": { "px": 24, "usage": "Extra large containers" },
+    "full": { "px": 9999, "usage": "Pill buttons, avatar" }
+  },
+  "breakpoints": {
+    "mobile": { "px": 480, "media": "max-width: 480px" },
+    "tablet": { "px": 768, "media": "max-width: 768px" },
+    "desktop": { "px": 1200, "media": "max-width" }
+  },
+  "layout": {
+    "max-width": "1200px",
+    "nav-height": "56px",
+    "card-min-width": "320px",
+    "feature-min-width": "280px",
+    "grid-gap": "var(--ael-space-6)"
+  },
+  "z-index": {
+    "base": 1,
+    "dropdown": 10,
+    "nav": 100,
+    "modal": 1000,
+    "tooltip": 1001
+  },
+  "transitions": {
+    "base": "250ms cubic-bezier(0.4, 0, 0.2, 1)",
+    "fast": "150ms cubic-bezier(0.4, 0, 0.2, 1)",
+    "slow": "400ms cubic-bezier(0.4, 0, 0.2, 1)",
+    "spring": "500ms cubic-bezier(0.34, 1.56, 0.64, 1)"
+  },
+  "shadows": {
+    "sm": "0 1px 3px rgba(0,0,0,0.3)",
+    "md": "0 4px 6px rgba(0,0,0,0.3)",
+    "lg": "0 10px 25px rgba(0,0,0,0.4)",
+    "inner": "inset 0 1px 2px rgba(0,0,0,0.4)"
+  },
+  "glassmorphism": {
+    "background": "rgba(255, 255, 255, 0.03)",
+    "backdrop-blur": "12px",
+    "border": "1px solid rgba(255, 255, 255, 0.06)",
+    "border-radius": "var(--ael-radius-lg)",
+    "hover-background": "rgba(255, 255, 255, 0.06)",
+    "hover-border": "rgba(255, 255, 255, 0.1)"
+  }
+}

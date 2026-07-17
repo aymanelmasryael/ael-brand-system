@@ -1,0 +1,166 @@
+{
+  "$schema": "https://schemas.ael.digital/tokens/components.json",
+  "meta": {
+    "name": "AEL Component Tokens",
+    "version": "1.0.0",
+    "source": "www.aymanelmasry.com",
+    "extracted": "2026-07-18"
+  },
+  "navigation": {
+    "position": "fixed top",
+    "height": "56px",
+    "background": "rgba(11, 18, 32, 0.85)",
+    "backdrop-blur": "20px",
+    "border-bottom": "1px solid rgba(255, 255, 255, 0.06)",
+    "max-width": "1200px",
+    "z-index": 100,
+    "link": {
+      "padding": "8px 12px",
+      "border-radius": "6px",
+      "color": "#8899AA",
+      "font-size": "13px",
+      "font-weight": 500,
+      "hover-color": "#E6EEF8",
+      "hover-bg": "rgba(255, 255, 255, 0.03)",
+      "active-color": "#0074FF"
+    }
+  },
+  "hero": {
+    "min-height": "100vh",
+    "display": "flex center",
+    "max-width": "800px",
+    "heading-size": "2.5rem",
+    "heading-weight": 300,
+    "padding-top": "3rem"
+  },
+  "buttons": {
+    "primary": {
+      "background": "linear-gradient(135deg, #0074FF, #6C47FF)",
+      "color": "#FFFFFF",
+      "padding": "12px 24px",
+      "border-radius": "9999px",
+      "font-size": "13px",
+      "font-weight": 600,
+      "shadow": "0 4px 15px rgba(0, 116, 255, 0.3)",
+      "hover-transform": "translateY(-2px)",
+      "hover-shadow": "0 6px 20px rgba(0, 116, 255, 0.4)"
+    },
+    "secondary": {
+      "background": "transparent",
+      "color": "#E6EEF8",
+      "border": "1px solid rgba(255, 255, 255, 0.2)",
+      "padding": "12px 24px",
+      "border-radius": "9999px",
+      "font-size": "13px",
+      "font-weight": 600",
+      "hover-border": "#0074FF",
+      "hover-bg": "rgba(0, 116, 255, 0.1)"
+    },
+    "ghost": {
+      "background": "transparent",
+      "color": "#8899AA",
+      "padding": "8px 16px",
+      "border-radius": "9999px",
+      "font-size": "13px",
+      "font-weight": 600",
+      "hover-color": "#E6EEF8",
+      "hover-bg": "rgba(255, 255, 255, 0.03)"
+    },
+    "icon": {
+      "size": "40px",
+      "border-radius": "9999px",
+      "border": "1px solid rgba(255, 255, 255, 0.1)",
+      "color": "#8899AA",
+      "hover-color": "#E6EEF8",
+      "hover-border": "#0074FF",
+      "hover-bg": "rgba(0, 116, 255, 0.1)"
+    }
+  },
+  "terminal": {
+    "background": "rgba(0, 0, 0, 0.4)",
+    "border": "1px solid rgba(0, 116, 255, 0.2)",
+    "border-radius": "12px",
+    "font-family": "mono",
+    "max-width": "520px",
+    "header-bg": "rgba(255, 255, 255, 0.03)",
+    "header-border": "1px solid rgba(255, 255, 255, 0.06)",
+    "body-padding": "16px",
+    "prompt-color": "#00FFCC",
+    "cursor-color": "#00FFCC"
+  },
+  "cards": {
+    "glass": {
+      "background": "rgba(255, 255, 255, 0.03)",
+      "backdrop-blur": "12px",
+      "border": "1px solid rgba(255, 255, 255, 0.06)",
+      "border-radius": "12px",
+      "padding": "24px",
+      "hover-bg": "rgba(255, 255, 255, 0.06)",
+      "hover-border": "rgba(255, 255, 255, 0.1)",
+      "hover-transform": "translateY(-2px)",
+      "hover-shadow": "0 0 20px rgba(0, 116, 255, 0.3)"
+    },
+    "featured": {
+      "accent-height": "3px",
+      "accent-gradient": "linear-gradient(135deg, #0074FF, #00FFCC)"
+    },
+    "stat": {
+      "number-size": "2.5rem",
+      "number-weight": 700,
+      "number-gradient": "linear-gradient(135deg, #0074FF, #00FFCC)",
+      "label-color": "#8899AA",
+      "label-size": "13px"
+    }
+  },
+  "tags": {
+    "default": {
+      "background": "rgba(0, 116, 255, 0.1)",
+      "color": "#4DA6FF",
+      "padding": "4px 12px",
+      "border-radius": "9999px",
+      "font-size": "12px",
+      "font-weight": 500,
+      "font-family": "mono"
+    },
+    "badge": {
+      "background": "linear-gradient(135deg, #0074FF, #6C47FF)",
+      "color": "#FFFFFF",
+      "padding": "2px 8px",
+      "border-radius": "4px",
+      "font-size": "10px",
+      "font-weight": 700,
+      "text-transform": "uppercase",
+      "letter-spacing": "0.05em"
+    }
+  },
+  "forms": {
+    "input": {
+      "background": "rgba(255, 255, 255, 0.03)",
+      "border": "1px solid rgba(255, 255, 255, 0.1)",
+      "border-radius": "8px",
+      "padding": "12px 16px",
+      "color": "#E6EEF8",
+      "font-size": "15px",
+      "focus-border": "#0074FF",
+      "focus-shadow": "0 0 0 3px rgba(0, 116, 255, 0.15)",
+      "placeholder-color": "rgba(255, 255, 255, 0.3)",
+      "error-border": "#FF4466",
+      "success-border": "#00CC88"
+    },
+    "label": {
+      "font-size": "13px",
+      "font-weight": 500,
+      "color": "#E6EEF8",
+      "margin-bottom": "8px"
+    },
+    "max-width": "560px"
+  },
+  "footer": {
+    "grid-template-columns": "2fr 1fr 1fr",
+    "padding": "64px 0 32px",
+    "border-top": "1px solid rgba(255, 255, 255, 0.06)",
+    "social-icon-size": "20px",
+    "bottom-text-size": "12px",
+    "bottom-color": "#8899AA"
+  }
+}
