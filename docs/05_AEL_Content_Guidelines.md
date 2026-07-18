@@ -65,12 +65,12 @@ AEL's voice is **confident, precise, and visionary** — never hype-driven or in
 
 **Short (social/hero)**
 ```
-Visionary Architect · AI Orchestrator · Brand Designer
+Visionary · AI Orchestrator · Brand Designer · Founder @ AEL Digital Studio
 ```
 
 **Medium (GitHub profile)**
 ```
-Ayman Elmasry — Visionary Architect, AI Orchestrator, and Brand Designer at AEL Digital Studio.
+Ayman Elmasry — Visionary, AI Orchestrator, and Brand Designer at AEL Digital Studio.
 Design drives the vision, AI powers the build.
 ```
 
@@ -112,7 +112,7 @@ Define the vision — orchestrate AI to build it. Design drives the vision, AI p
 
 ### Dual-language Pattern
 ```markdown
-**Title (EN)** | Visionary Architect · AI Orchestrator · Brand Designer
+**Title (EN)** | Visionary · AI Orchestrator · Brand Designer · Founder @ AEL Digital Studio
 **Title (AR)** | مهندس رؤية · مخرج ذكاء اصطناعي · مصمم هويات
 ```
 

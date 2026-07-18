@@ -14,7 +14,7 @@
 
 **Profile content order**:
 1. Banner: AEL Brand System logo (`ael-logo.svg`) — centered, width 120px
-2. Bio: "Visionary Architect · AI Orchestrator · Brand Designer"
+2. Bio: "Visionary · AI Orchestrator · Brand Designer · Founder @ AEL Digital Studio"
 3. Secondary line: "Design drives the vision, AI powers the build."
 4. Location: Egypt
 5. Website: https://www.aymanelmasry.com
@@ -24,7 +24,7 @@
 ```markdown
 ![AEL Logo](https://raw.githubusercontent.com/aymanelmasryael/aymanelmasryael/main/ael-logo.svg)
 
-**Ayman Elmasry** — *Visionary Architect · AI Orchestrator · Brand Designer*
+**Ayman Elmasry** — *Visionary · AI Orchestrator · Brand Designer · Founder @ AEL Digital Studio*
 
 Design drives the vision, AI powers the build.
 
@@ -43,7 +43,7 @@ Design drives the vision, AI powers the build.
 
 **URL**: https://linkedin.com/in/aymanelmasryael
 
-**Headline**: Visionary Architect · AI Orchestrator · Brand Designer
+**Headline**: Visionary · AI Orchestrator · Brand Designer · Founder @ AEL Digital Studio
 
 **About section**: AEL Digital Studio founder bio with Three Pillars.
 
@@ -57,7 +57,7 @@ Design drives the vision, AI powers the build.
 
 **Display name**: Ayman Elmasry | AEL Digital Studio
 
-**Bio**: Visionary Architect · AI Orchestrator · Brand Designer
+**Bio**: Visionary · AI Orchestrator · Brand Designer · Founder @ AEL Digital Studio
 
 **Avatar**: `AEL.png` (profile picture)
 
@@ -71,7 +71,7 @@ Design drives the vision, AI powers the build.
 
 **Display name**: Ayman Elmasry | AEL Digital Studio
 
-**Bio**: Visionary Architect · AI Orchestrator · Brand Designer
+**Bio**: Visionary · AI Orchestrator · Brand Designer · Founder @ AEL Digital Studio
 
 **Content**: Portfolio work, process breakdowns, brand visuals.
 
@@ -83,7 +83,7 @@ Design drives the vision, AI powers the build.
 
 **Display name**: Ayman Elmasry
 
-**Bio**: Visionary Architect · AI Orchestrator · Brand Designer
+**Bio**: Visionary · AI Orchestrator · Brand Designer · Founder @ AEL Digital Studio
 
 **Content**: CSS experiments, animations, component prototypes.
 

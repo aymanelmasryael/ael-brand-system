@@ -6,7 +6,7 @@
 |-------|-------|
 | **Full Name** | Ayman Elmasry |
 | **Studio** | AEL Digital Studio |
-| **Title (EN)** | Visionary Architect · AI Orchestrator · Brand Designer |
+| **Title (EN)** | Visionary · AI Orchestrator · Brand Designer · Founder @ AEL Digital Studio |
 | **Title (AR)** | مهندس رؤية · مخرج ذكاء اصطناعي · مصمم هويات |
 | **Legal Entities** | Ayman Elmasry LLC (UAE), Ayman Elmasry Advertising & Marketing (Egypt) |
 | **Primary Domain** | [www.aymanelmasry.com](https://www.aymanelmasry.com) |
@@ -57,13 +57,13 @@ The product is the system, not the artifact. Build frameworks that scale creatio
 
 ## Elevator Pitch
 
-Ayman Elmasry is a Visionary Architect, AI Orchestrator, and Brand Designer — founder of AEL Digital Studio. He builds systems that generate outcomes: brand engines, prompt architectures, and sovereign digital identities. His work bridges Arabic heritage with futuristic digital aesthetics, operating at the intersection of design vision and AI execution.
+Ayman Elmasry is a Visionary, AI Orchestrator, and Brand Designer — founder of AEL Digital Studio. He builds systems that generate outcomes: brand engines, prompt architectures, and sovereign digital identities. His work bridges Arabic heritage with futuristic digital aesthetics, operating at the intersection of design vision and AI execution.
 
 ---
 
 ## Taglines
 
-- **Primary**: "Visionary Architect · AI Orchestrator · Brand Designer"
+- **Primary**: "Visionary · AI Orchestrator · Brand Designer · Founder @ AEL Digital Studio"
 - **Arabic**: "مهندس رؤية · مخرج ذكاء اصطناعي · مصمم هويات"
 - **Studio tag**: "Define the vision — orchestrate AI to build it"
 - **Short**: "Design drives the vision, AI powers the build"
@@ -72,7 +72,7 @@ Ayman Elmasry is a Visionary Architect, AI Orchestrator, and Brand Designer — 
 
 ## Bio (Short)
 
-> Ayman Elmasry — Visionary Architect, AI Orchestrator, and Brand Designer at AEL Digital Studio. Design drives the vision, AI powers the build.
+> Ayman Elmasry — Visionary, AI Orchestrator, and Brand Designer at AEL Digital Studio. Design drives the vision, AI powers the build.
 
 ---
 

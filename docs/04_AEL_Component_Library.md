@@ -132,7 +132,7 @@ The hero should feel expansive (full viewport), aspirational (light, gradient te
 ### Anatomy
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│  [Tag: "Visionary Architect"]                                │  ← centered
+  │  [Tag: "Visionary"]                                          │  ← centered
 │  [Gradient Heading: I Build Systems That Generate...]        │  ← 2.5rem, weight 300
 │  [Subtitle: "Define the vision..."]                          │  ← secondary color
 │  ┌──────────────── Terminal ────────────────────┐           │
@@ -162,7 +162,7 @@ The hero should feel expansive (full viewport), aspirational (light, gradient te
 <section id="hero" class="ael-hero">
   <div class="ael-hero-content">
     <div class="ael-hero-tag">
-      <span class="ael-tag">Visionary Architect</span>
+      <span class="ael-tag">Visionary</span>
     </div>
     <h1 class="ael-hero-title">
       I Build Systems That<br>Generate<span class="ael-gradient-text"> Outcomes</span>

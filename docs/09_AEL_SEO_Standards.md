@@ -8,9 +8,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ayman Elmasry | Visionary Architect · AI Orchestrator · Brand Designer</title>
-  <meta name="description" content="Ayman Elmasry — Visionary Architect, AI Orchestrator, and Brand Designer at AEL Digital Studio. Design drives the vision, AI powers the build.">
-  <meta name="keywords" content="Ayman Elmasry, AEL Digital Studio, AI Orchestrator, Brand Designer, Visionary Architect, prompt engineering, design systems">
+  <title>Ayman Elmasry | Visionary · AI Orchestrator · Brand Designer · Founder @ AEL Digital Studio</title>
+  <meta name="description" content="Ayman Elmasry — Visionary, AI Orchestrator, and Brand Designer at AEL Digital Studio. Design drives the vision, AI powers the build.">
+  <meta name="keywords" content="Ayman Elmasry, AEL Digital Studio, AI Orchestrator, Brand Designer, Visionary, prompt engineering, design systems">
   <meta name="author" content="Ayman Elmasry">
   <meta name="robots" content="index, follow">
 </head>
@@ -23,7 +23,7 @@
 ```html
 <!-- Open Graph -->
 <meta property="og:type" content="website">
-<meta property="og:title" content="Ayman Elmasry | Visionary Architect · AI Orchestrator · Brand Designer">
+<meta property="og:title" content="Ayman Elmasry | Visionary · AI Orchestrator · Brand Designer · Founder @ AEL Digital Studio">
 <meta property="og:description" content="Define the vision — orchestrate AI to build it. Design drives the vision, AI powers the build.">
 <meta property="og:image" content="https://www.aymanelmasry.com/ael-og-image.png">
 <meta property="og:url" content="https://www.aymanelmasry.com">
@@ -47,7 +47,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@aymanelmasryael">
 <meta name="twitter:creator" content="@aymanelmasryael">
-<meta name="twitter:title" content="Ayman Elmasry | Visionary Architect · AI Orchestrator · Brand Designer">
+<meta name="twitter:title" content="Ayman Elmasry | Visionary · AI Orchestrator · Brand Designer · Founder @ AEL Digital Studio">
 <meta name="twitter:description" content="Define the vision — orchestrate AI to build it. Design drives the vision, AI powers the build.">
 <meta name="twitter:image" content="https://www.aymanelmasry.com/ael-og-image.png">
 ```
@@ -66,7 +66,7 @@
   "url": "https://www.aymanelmasry.com",
   "email": "ayman@aymanelmasry.me",
   "telephone": "+20 111 330 0073",
-  "jobTitle": ["Visionary Architect", "AI Orchestrator", "Brand Designer"],
+  "jobTitle": ["Visionary", "AI Orchestrator", "Brand Designer"],
   "knowsLanguage": ["Arabic", "English"],
   "sameAs": [
     "https://github.com/aymanelmasryael",
@@ -118,7 +118,7 @@
 
 | Element | Required | Format |
 |---------|----------|--------|
-| Title Tag | Yes | `Ayman Elmasry | Visionary Architect · AI Orchestrator · Brand Designer` |
+| Title Tag | Yes | `Ayman Elmasry | Visionary · AI Orchestrator · Brand Designer · Founder @ AEL Digital Studio` |
 | Meta Description | Yes | 150-160 characters, includes "Design drives the vision, AI powers the build." |
 | OG Title | Yes | Same as page title |
 | OG Description | Yes | Same as meta description |
