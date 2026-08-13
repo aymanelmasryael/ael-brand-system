@@ -52,7 +52,7 @@
       "padding": "12px 24px",
       "border-radius": "9999px",
       "font-size": "13px",
-      "font-weight": 600",
+      "font-weight": 600,
       "hover-border": "#0074FF",
       "hover-bg": "rgba(0, 116, 255, 0.1)"
     },
@@ -62,7 +62,7 @@
       "padding": "8px 16px",
       "border-radius": "9999px",
       "font-size": "13px",
-      "font-weight": 600",
+      "font-weight": 600,
       "hover-color": "#E6EEF8",
       "hover-bg": "rgba(255, 255, 255, 0.03)"
     },
